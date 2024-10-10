@@ -1,0 +1,54 @@
+{
+  "anecdotes": [
+    {
+      "content": "If it hurts, do it more often",
+      "id": "36990",
+      "votes": 5
+    },
+    {
+      "content": "Simplicity is the ultimate sophistication",
+      "id": "36991",
+      "votes": 12
+    },
+    {
+      "content": "Make it work, make it right, make it fast",
+      "id": "36992",
+      "votes": 0
+    },
+    {
+      "content": "Premature optimization is the root of all evil",
+      "id": "36993",
+      "votes": 0
+    },
+    {
+      "content": "Programs must be written for people to read, and only incidentally for machines to execute",
+      "id": "36994",
+      "votes": 0
+    },
+    {
+      "content": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand",
+      "id": "36995",
+      "votes": 0
+    },
+    {
+      "content": "Experience is the name everyone gives to their mistakes",
+      "id": "36996",
+      "votes": 0
+    },
+    {
+      "content": "Code is like humor. When you have to explain it, it’s bad",
+      "id": "36997",
+      "votes": 0
+    },
+    {
+      "content": "The best way to predict the future is to invent it",
+      "id": "36998",
+      "votes": 0
+    },
+    {
+      "content": "Testing leads to failure, and failure leads to understanding",
+      "id": "36999",
+      "votes": 0
+    }
+  ]
+}
